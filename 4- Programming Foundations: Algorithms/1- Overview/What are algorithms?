@@ -1,0 +1,15 @@
+
+
+-> What are algorithms?
+    An algorithm is a set of instructions for accomplishing a task. 
+    Every piece of code could be called an algorithm
+
+    Algorithms are the universal building blocks of programming.
+    They power the software you use every day, whether it's a 
+    spreadsheet, a social network, or a driving assistant. 
+    Algorithms offer a way to think about programming challenges
+    in plain English, before they are translated into a specific
+    language like C# or JavaScript.
+
+->  Algorithms have several characteristics that could be used to describe them. 
+    For example, any given algorithm has an associated complexity and usually there's more than one. There's space complexity, which describes how much memory and storage space the algorithm needs to do its work. There's also time complexity, which describes how efficient the algorithm is relative to the size of the input it is given to work on.
